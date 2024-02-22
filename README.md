@@ -31,6 +31,16 @@ The UAE Pass Plugin integrates UAE Pass authentication into WordPress, allowing 
 - **Login Button**: Select the image for the UAE Pass login button.
 - **API Environment**: Choose the API environment (production or staging) for authentication.
 
+
+## SandBox Configuration
+- **Client ID**: sandbox_stage.
+- **Secret**: c2FuZGJveF9zdGFnZTpzYW5kYm94X3N0YWdl.
+- **Scope**: urn:uae:digitalid:profile:general&acr_values=urn:safelayer:tws:policies:authentication:level:low
+- **Callback URL**:  uae-auth-callback.
+- **Login Button**: Select the image for the UAE Pass login button.
+- **API Environment**: Choose the API environment (staging).
+
+
 ## Frequently Asked Questions
 
 ### How do I obtain a UAE Pass client ID?
